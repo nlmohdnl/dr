@@ -1,7 +1,4 @@
-# dr
-digital resume
 
-<!DOCTYPE html>
 <!-- saved from url=(0074)file:///C:/Users/Administrator/Desktop/digital%20resume/digitalresume.html -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
@@ -9,7 +6,7 @@ digital resume
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Mohammad Fakhera</title>
     <style>
-        h1 { font-size: medium;
+        h1 { font-size: small;
         font-style: italic;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         color: blueviolet;
@@ -73,7 +70,7 @@ span:hover .project {
   float :left;
 }
 span:hover + div {display: block;}
-#card {padding:200px; background-image: url(https://www.droidviews.com/samsung-galaxy-note-10-wallpapers/default_wallpaper_white/);}
+#card {padding:50px; background-image: url(https://www.droidviews.com/samsung-galaxy-note-10-wallpapers/default_wallpaper_white/);}
     </style>
 
 </head>
@@ -83,7 +80,7 @@ span:hover + div {display: block;}
             <div id="box1">
                 
                 <h1>Mohammad Fakhera</h1>
-                <div id="profile-img"> 
+                <div id="my photo.png"> 
                     <img src="dummy-person.png" alt="personal" width="60%">
                     
                 </div>
@@ -91,7 +88,7 @@ span:hover + div {display: block;}
                 <ul class="list"><li>Electrical Engineer</li>
                     <li>ECHT , Netherlands</li>
                     <li>email:nlmohdnl@gmail.com</li>
-                    <li>mobile :66666666</li>
+                    <li>mobile :0645787446</li>
                 </ul>
                 <h1>skills</h1>
                 <ul><li>html ,CSS </li>
@@ -101,8 +98,8 @@ span:hover + div {display: block;}
                 </ul>
                 <div id="box4">  <h1> social media</h1>
                     
-                       <a href="https://www.youtube.com/" target="_blank"><img src="" width="35px" alt="youtube"></a>
-                         <a href="https://www.facebook.com/" target="_blank"><img src="./Mohammad Fakhera_files/Facebook_icon.jpg" alt="face book icone" width="35 px"></a> 
+                       <a href="https://www.youtube.com/" target="_blank"><img src="YouTube-icon.png" width="35px" alt="youtube"></a>
+                         <a href="https://www.facebook.com/" target="_blank"><img src="Facebook_icon.jpg" alt="face book icone" width="35 px"></a> 
                            <a href="https://https//www.instagram.com//" target="_blank"><img src="240px-Instagram_icon.png" alt="instegram" width="35 px"></a> 
                     
                     <h1>contact me</h1>
@@ -132,14 +129,13 @@ span:hover + div {display: block;}
                 <h1>Previous projects</h1><br>
                 <ul><li>Town Square B+G+20+R &amp; 18+R Residential &amp; Commercial Building  </li><br>
                   
-                        <span class="photo"> <img src="1-72.jpg" alt="" width="40%"> <div class="project">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non laboriosam consequatur corporis dicta excepturi aliquid rem consectetur velit accusantium quam, eaque ipsa ullam beatae sapiente itaque pariatur sit vel porro!</div></span><br>
+                        <span class="photo"> <img src="1-72.jpg" alt="" width="50%"> <div class="project">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non laboriosam consequatur corporis dicta excepturi aliquid rem consectetur velit accusantium quam, eaque ipsa ullam beatae sapiente itaque pariatur sit vel porro!</div></span><br>
                            <li>382 Villas – Rosa, Rasha &amp; Yasmin Communities at Arabian Ranches 2 for EMAAR Properties.</li>
-                                    <span class="photo"> <img src="6-bedroom-Villa-for-sale-s1-id200802.jpg" alt="" width="40%"> <div class="project">Lorem Loremt amet, coLoremt. Non laborioLoremr corLoremta eLoremid rLoremLoremlit accusantium quam, eaque ipsa ullam beatae sapiente itaque pariatur sit vel porro!</div></span><br>
-                                    <li>International School of Choueifat – Ajman .</li>
-                                    <span class="photo"> <img src="./Mohammad Fakhera_files/images" alt="" width="40%"> <div class="project">Lorem Loremt amet, coLoremt. Non laborioLoremr corLoremta eLoremid rLoremLoremlit accusantium quam, eaque ipsa ullam beatae sapiente itaque pariatur sit vel porro!</div></span><br>
+                                    <span class="photo"> <img src="6-bedroom-Villa-for-sale-s1-id200802.jpg" alt="" width="50%"> <div class="project">Lorem Loremt amet, coLoremt. Non laborioLoremr corLoremta eLoremid rLoremLoremlit accusantium quam, eaque ipsa ullam beatae sapiente itaque pariatur sit vel porro!</div></span><br>
+                                    
                      
                    
-                 
+  
                 </ul> 
             </div>
             
