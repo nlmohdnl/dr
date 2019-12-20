@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Mohammad Fakhera</title>
     <style>
-        h1 { font-size: small;
+        h1 { font-size: 0.5 em;
         font-style: italic;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         color: blueviolet;
@@ -81,7 +81,7 @@ span:hover + div {display: block;}
                 
                 <h1>Mohammad Fakhera</h1>
                 <div id="my photo.png"> 
-                    <img src="dummy-person.png" alt="personal" width="60%">
+                    <img src="my photo.png" alt="personal" width="60%">
                     
                 </div>
                 
