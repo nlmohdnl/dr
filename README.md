@@ -84,7 +84,7 @@ span:hover + div {display: block;}
                 
                 <h1>Mohammad Fakhera</h1>
                 <div id="profile-img"> 
-                    <img src="./Mohammad Fakhera_files/dummy-person.png" alt="personal" width="60%">
+                    <img src="dummy-person.png" alt="personal" width="60%">
                     
                 </div>
                 
