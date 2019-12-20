@@ -101,9 +101,9 @@ span:hover + div {display: block;}
                 </ul>
                 <div id="box4">  <h1> social media</h1>
                     
-                       <a href="https://www.youtube.com/" target="_blank"><img src="./Mohammad Fakhera_files/YouTube-icon.png" width="35px" alt="youtube"></a>
+                       <a href="https://www.youtube.com/" target="_blank"><img src="" width="35px" alt="youtube"></a>
                          <a href="https://www.facebook.com/" target="_blank"><img src="./Mohammad Fakhera_files/Facebook_icon.jpg" alt="face book icone" width="35 px"></a> 
-                           <a href="https://https//www.instagram.com//" target="_blank"><img src="./Mohammad Fakhera_files/240px-Instagram_icon.png" alt="instegram" width="35 px"></a> 
+                           <a href="https://https//www.instagram.com//" target="_blank"><img src="240px-Instagram_icon.png" alt="instegram" width="35 px"></a> 
                     
                     <h1>contact me</h1>
                 <form action="file:///C:/action_page.php">
@@ -132,9 +132,9 @@ span:hover + div {display: block;}
                 <h1>Previous projects</h1><br>
                 <ul><li>Town Square B+G+20+R &amp; 18+R Residential &amp; Commercial Building  </li><br>
                   
-                        <span class="photo"> <img src="./Mohammad Fakhera_files/1-72.jpg" alt="" width="40%"> <div class="project">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non laboriosam consequatur corporis dicta excepturi aliquid rem consectetur velit accusantium quam, eaque ipsa ullam beatae sapiente itaque pariatur sit vel porro!</div></span><br>
+                        <span class="photo"> <img src="1-72.jpg" alt="" width="40%"> <div class="project">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non laboriosam consequatur corporis dicta excepturi aliquid rem consectetur velit accusantium quam, eaque ipsa ullam beatae sapiente itaque pariatur sit vel porro!</div></span><br>
                            <li>382 Villas – Rosa, Rasha &amp; Yasmin Communities at Arabian Ranches 2 for EMAAR Properties.</li>
-                                    <span class="photo"> <img src="./Mohammad Fakhera_files/6-bedroom-Villa-for-sale-s1-id200802.jpg" alt="" width="40%"> <div class="project">Lorem Loremt amet, coLoremt. Non laborioLoremr corLoremta eLoremid rLoremLoremlit accusantium quam, eaque ipsa ullam beatae sapiente itaque pariatur sit vel porro!</div></span><br>
+                                    <span class="photo"> <img src="6-bedroom-Villa-for-sale-s1-id200802.jpg" alt="" width="40%"> <div class="project">Lorem Loremt amet, coLoremt. Non laborioLoremr corLoremta eLoremid rLoremLoremlit accusantium quam, eaque ipsa ullam beatae sapiente itaque pariatur sit vel porro!</div></span><br>
                                     <li>International School of Choueifat – Ajman .</li>
                                     <span class="photo"> <img src="./Mohammad Fakhera_files/images" alt="" width="40%"> <div class="project">Lorem Loremt amet, coLoremt. Non laborioLoremr corLoremta eLoremid rLoremLoremlit accusantium quam, eaque ipsa ullam beatae sapiente itaque pariatur sit vel porro!</div></span><br>
                      
